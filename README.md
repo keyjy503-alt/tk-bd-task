@@ -10,6 +10,6 @@ Run the main script:
 python main.py
 ```
 
-## Requirments
+## Requirements
 
 - Python 3.8+
